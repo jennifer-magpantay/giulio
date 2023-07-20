@@ -145,11 +145,6 @@ const gallery = [
     alt: "Simone-Ventrice",
   },
   {
-    href: "https://ibb.co/bdYsQNV",
-    src: "https://i.ibb.co/88GrNPw/Mirko-Lumina.png",
-    alt: "Mirko-Lumina",
-  },
-  {
     href: "https://ibb.co/MVfgVV1",
     src: "https://i.ibb.co/hWcgWWd/Daniele-Paderi.jpg",
     alt: "Daniele-Paderi",
