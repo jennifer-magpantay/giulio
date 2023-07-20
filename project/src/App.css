@@ -175,6 +175,8 @@ footer {
   /* change div to reference your elements you put in <Masonry> */
   /* background: #fff; */
   margin-bottom: 1.6rem;
+  border: 08px solid #fff;
+  /* border-radius: 4px; */
 }
 
 .image--container {
@@ -194,7 +196,7 @@ footer {
 .signature {
   display: block;
   margin-right: 0.8rem;
-  color: #000;
+  color: #fff;
   font-size: 1.2rem;
   text-align: end;
 }
