@@ -41,7 +41,7 @@ const gallery = [
   },
   {
     href: "https://imgbb.com/",
-    src: "https://i.ibb.co/FhFqyg9/Alessio-Zambaglioni.png",
+    src: "https://i.ibb.co/k4GCrz8/Alessio-Zambaglioni.png",
     alt: "Alessio-Zambaglioni",
   },
   {
@@ -242,7 +242,7 @@ const gallery = [
   },
   {
     href: "https://imgbb.com/",
-    src: "https://i.ibb.co/SmT16cG/Andrea-Fratini.png",
+    src: "https://i.ibb.co/mTqXHzm/Andrea-Fratini.png",
     alt: "Andrea-Fratini",
   },
   {
