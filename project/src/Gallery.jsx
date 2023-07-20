@@ -275,6 +275,21 @@ const gallery = [
     src: "https://i.ibb.co/5ngmQkN/Daniele-Paiano.jpg",
     alt: "Daniele-Paiano",
   },
+  {
+    href: "https://ibb.co/n6fN9TS",
+    src: "https://i.ibb.co/pbZBcgp/Alessandro-Sala.png",
+    alt: "Alessandro-Sala",
+  },
+  {
+    href: "https://imgbb.com/",
+    src: "https://i.ibb.co/qkWBdJt/Luca-Cappiello.jpg",
+    alt: "Luca-Cappiello",
+  },
+  {
+    href: "https://ibb.co/GpSCxqs",
+    src: "https://i.ibb.co/jfX36SV/Mirko-Lumina.png",
+    alt: "Mirko-Lumina",
+  },
 ];
 
 export const Gallery = ({ onClick }) => {
