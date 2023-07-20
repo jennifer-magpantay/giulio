@@ -4,6 +4,16 @@ import { GalleryItem } from "./GalleryItem";
 
 const gallery = [
   {
+    href: "https://ibb.co/mHrGdMf",
+    src: "https://i.ibb.co/BgHtvS0/Francesca-Villani.png",
+    alt: "Francesca-Villani",
+  },
+  {
+    href: "https://imgbb.com/",
+    src: "https://i.ibb.co/mTqXHzm/Andrea-Fratini.png",
+    alt: "Andrea-Fratini",
+  },
+  {
     href: "https://imgbb.com/",
     src: "https://i.ibb.co/kGQvBG5/Jennifer-Magpantay.png",
     alt: "Jennifer-Magpantay",
@@ -240,11 +250,7 @@ const gallery = [
     src: "https://i.ibb.co/KNVp0Kf/Marco-Ceriani.png",
     alt: "Marco-Ceriani",
   },
-  {
-    href: "https://imgbb.com/",
-    src: "https://i.ibb.co/mTqXHzm/Andrea-Fratini.png",
-    alt: "Andrea-Fratini",
-  },
+
   {
     href: "https://ibb.co/DLf30LH",
     src: "https://i.ibb.co/nRMhxRN/Gabriele-Mandara.jpg",
@@ -284,6 +290,67 @@ const gallery = [
     href: "https://ibb.co/GpSCxqs",
     src: "https://i.ibb.co/jfX36SV/Mirko-Lumina.png",
     alt: "Mirko-Lumina",
+  },
+  {
+    href: "https://ibb.co/FwsXyVR",
+    src: "https://i.ibb.co/MV8ft6F/Keren-Sandra-Tocto.png",
+    alt: "Keren-Sandra-Tocto",
+  },
+  {
+    href: "https://ibb.co/kMTH7Ns",
+    src: "https://i.ibb.co/25rn9G1/Elvis-Orlando.png",
+    alt: "Elvis-Orlando",
+  },
+
+  {
+    href: "https://ibb.co/NyL2khG",
+    src: "https://i.ibb.co/yQ8FMTx/Mario-Bernardini.jpg",
+    alt: "Mario-Bernardini",
+  },
+  {
+    href: "https://ibb.co/KGRwhcx",
+    src: "https://i.ibb.co/9vztgmH/Maurizio-Arosio.png",
+    alt: "Maurizio-Arosio",
+  },
+  {
+    href: "https://ibb.co/sJNNNFQ",
+    src: "https://i.ibb.co/Z1FFFhK/Luciano-Di-Biase.jpg",
+    alt: "Luciano-Di-Biase",
+  },
+  {
+    href: "https://ibb.co/Nrh9Hzt",
+    src: "https://i.ibb.co/KDZ23Hb/celeste.jpg",
+    alt: "Celeste",
+  },
+  {
+    href: "https://ibb.co/CbdbdW8",
+    src: "https://i.ibb.co/rxPxPv0/Letizia-Giannotta.jpg",
+    alt: "Letizia-Giannotta",
+  },
+  {
+    href: "https://ibb.co/8xDQ3y4",
+    src: "https://i.ibb.co/NN6Gh0n/Manuel-Colombo.jpg",
+    alt: "Manuel-Colombo",
+  },
+  {
+    href: "https://ibb.co/txzmXLc",
+    src: "https://i.ibb.co/D8YVprk/Poci.jpg",
+    alt: "Poci",
+  },
+  {
+    href: "https://ibb.co/k5wbn9j",
+    src: "https://i.ibb.co/pbMVDRc/Stefano-Galli.jpg",
+    alt: "Stefano-Galli",
+  },
+  {
+    href: "https://ibb.co/mqkSFBy",
+    src: "https://i.ibb.co/PhKtzYW/Vincenzo-Verardi.jpg",
+    alt: "Vincenzo-Verardi",
+  },
+  {
+    href: "https://ibb.co/GVSjPrh",
+    src: "https://i.ibb.co/WcJ1KRT/Viola.jpg",
+    alt: "Viola",
   },
 ];
 
