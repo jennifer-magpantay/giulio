@@ -240,6 +240,41 @@ const gallery = [
     src: "https://i.ibb.co/xHmFdx0/Luisa-Bove.jpg",
     alt: "Luisa-Bove",
   },
+  {
+    href: "https://ibb.co/3fS9rRj",
+    src: "https://i.ibb.co/KNVp0Kf/Marco-Ceriani.png",
+    alt: "Marco-Ceriani",
+  },
+  {
+    href: "https://imgbb.com/",
+    src: "https://i.ibb.co/SmT16cG/Andrea-Fratini.png",
+    alt: "Andrea-Fratini",
+  },
+  {
+    href: "https://ibb.co/DLf30LH",
+    src: "https://i.ibb.co/nRMhxRN/Gabriele-Mandara.jpg",
+    alt: "Gabriele-Mandara",
+  },
+  {
+    href: "https://ibb.co/8jGfS7D",
+    src: "https://i.ibb.co/rZqz1wG/Anna-Colombo.jpg",
+    alt: "Anna-Colombo",
+  },
+  {
+    href: "https://ibb.co/rdpCw73",
+    src: "https://i.ibb.co/9Z4Fr8h/Laura-Licari.jpg",
+    alt: "Laura-Licari",
+  },
+  {
+    href: "https://ibb.co/5r2vvSz",
+    src: "https://i.ibb.co/T4rRR7n/Diletta-De-Munno.png",
+    alt: "Diletta-De-Munno",
+  },
+  {
+    href: "https://ibb.co/YyFm5Xz",
+    src: "https://i.ibb.co/5ngmQkN/Daniele-Paiano.jpg",
+    alt: "Daniele-Paiano",
+  },
 ];
 
 export const Gallery = ({ onClick }) => {
