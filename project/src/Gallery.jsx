@@ -359,10 +359,17 @@ export const Gallery = ({ onClick }) => {
     return String(text).replaceAll("-", " ");
   };
 
+  const breakpointColumnsObj = {
+    default: 4,
+    1100: 3,
+    700: 2,
+    500: 1,
+  };
+
   return (
     <Masonry
-      //breakpointCols={breakpointColumnsObj}
-      breakpointCols={3}
+      breakpointCols={breakpointColumnsObj}
+      gap={{ mobile: 20, tablet: 30, desktop: 40 }}
       className="my-masonry-grid"
       columnClassName="my-masonry-grid_column"
     >

@@ -15,7 +15,7 @@ export const Modal = ({ isModalOpened, src, alt, onClick }) => {
         className="modal--button"
         onClick={onClick}
       >
-        <XCircle size={32} weight="fill" />
+        <XCircle size={40} weight="fill" color="#273c75" />
       </button>
       <div className="modal--image-container">
         <img src={src} alt={alt} border="0" loading="lazy" />
