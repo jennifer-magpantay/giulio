@@ -4,7 +4,12 @@ import "./App.css";
 import { Gallery } from "./Gallery";
 import { Modal } from "./Modal";
 
-import { Heart, Confetti } from "@phosphor-icons/react";
+import {
+  Heart,
+  Confetti,
+  ShootingStar,
+  FlyingSaucer,
+} from "@phosphor-icons/react";
 
 function App() {
   const [isModalOpened, setIsModalOpened] = useState(false);
@@ -39,7 +44,9 @@ function App() {
           </p>
           <p>
             We would love to leave here a few wishes{" "}
-            <span className="break">for your new journey</span>
+            <span className="break">
+              for your new journey <FlyingSaucer size={32} weight="fill" />
+            </span>
           </p>
         </section>
 

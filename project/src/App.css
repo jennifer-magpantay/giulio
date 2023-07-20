@@ -143,6 +143,15 @@ footer {
   font-weight: 800;
 }
 
+.break {
+  display: flex;
+  align-items: center;
+}
+
+.break svg,
+.break span {
+  margin-left: 0.8rem;
+}
 .break::before {
   content: "\a";
   white-space: pre;
