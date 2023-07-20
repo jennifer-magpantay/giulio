@@ -19,8 +19,8 @@ const gallery = [
     alt: "Alessandro-Fresi",
   },
   {
-    href: "https://imgbb.com/",
-    src: "https://i.ibb.co/n11ZjgR/Robertina-Renzi.png",
+    href: "https://ibb.co/Sd47S7P",
+    src: "https://i.ibb.co/LJXhKh8/Robertina-Renzi.png",
     alt: "Robertina-Renzi",
   },
 
@@ -35,8 +35,8 @@ const gallery = [
     alt: "Vincenzo-Moschese",
   },
   {
-    href: "https://ibb.co/f0dLCCy",
-    src: "https://i.ibb.co/HgT3rrb/Anita-Alexandra-Piroddi.png",
+    href: "https://ibb.co/ZGdSZL8",
+    src: "https://i.ibb.co/WGn0Txy/Anita-Alexandra-Piroddi.png",
     alt: "Anita-Alexandra-Piroddi",
   },
   {
